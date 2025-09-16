@@ -35,6 +35,6 @@ The review highlights several common security issues:
 
 ## Deliverable
 The main deliverable is the PDF report:  
-**`Secure_Coding_Review_Report.pdf`**
+**`PasswordSecurityTool_Review.pdf`**
 
 This document summarizes the findings, risks, and remediation steps for the Password Security Tool project.
